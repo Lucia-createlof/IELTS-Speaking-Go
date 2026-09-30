@@ -1,0 +1,193 @@
+[
+  {
+    "topic": "Describe a tall building you like or dislike",
+    "prompts": [
+      "What it is used for",
+      "Where it is",
+      "What it looks like",
+      "And explain why you like/dislike it"
+    ]
+  },
+  {
+    "topic": "Describe a story/book with animals in it",
+    "prompts": [
+      "What animals are in it",
+      "What the story/book is about",
+      "Why you read the story/book",
+      "And explain what you think of this story/book"
+    ]
+  },
+  {
+    "topic": "Describe a time when you had a problem with using an electronic device",
+    "prompts": [
+      "When it happened",
+      "Where it happened",
+      "What the problem was",
+      "And explain how you solved the problem at last"
+    ]
+  },
+  {
+    "topic": "Describe a TV show/online program you have watched recently",
+    "prompts": [
+      "What it is",
+      "What it is about",
+      "How often you watch it",
+      "And explain how you feel about it"
+    ]
+  },
+  {
+    "topic": "Describe an advertisement with a famous person in it",
+    "prompts": [
+      "Who the person is",
+      "Where you can see it",
+      "What the advertisement is about",
+      "And explain how you feel about the advertisement"
+    ]
+  },
+  {
+    "topic": "Describe a place you have travelled to that you would like to recommend to others",
+    "prompts": [
+      "What it is",
+      "Where it is",
+      "What you saw and did there",
+      "And explain why you would like to recommend it to others"
+    ]
+  },
+  {
+    "topic": "Describe a challenging technological problem you faced",
+    "prompts": [
+      "What the problem was",
+      "When and where you faced it",
+      "How challenging it was",
+      "And explain how you solved it"
+    ]
+  },
+  {
+    "topic": "Describe a food that people eat on special occasions/events",
+    "prompts": [
+      "What it is",
+      "What the special event/occasion is",
+      "How it is cooked/made",
+      "And explain why people eat it on that special occasion/event"
+    ]
+  },
+  {
+    "topic": "Describe a live sports event you watched and liked",
+    "prompts": [
+      "What it was",
+      "When and where you watched it",
+      "Who you watched it with",
+      "And explain why you liked it"
+    ]
+  },
+  {
+    "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor a nurse)",
+    "prompts": [
+      "When you knew him/her",
+      "When he/she started to think about that",
+      "What he/she would like to do",
+      "And explain why he/she would like to choose this career"
+    ]
+  },
+  {
+    "topic": "Describe a time when you worked in a group",
+    "prompts": [
+      "What you did",
+      "Who you worked with",
+      "What problems you faced",
+      "And explain why you worked in the group"
+    ]
+  },
+  {
+    "topic": "Describe a person you know who has a successful business",
+    "prompts": [
+      "Who this person is",
+      "How you got to know him/her",
+      "Why and how he/she started the business",
+      "What business he/she does",
+      "And explain why you think the business is successful"
+    ]
+  },
+  {
+    "topic": "Describe a person who loves to grow plants (e.g.vegetables, flowers) at home or in the garden",
+    "prompts": [
+      "Who this person is",
+      "What plants he/she grows",
+      "How he/she grows the plants",
+      "And explain why he/she loves growing plants"
+    ]
+  },
+  {
+    "topic": "Describe an interesting video",
+    "prompts": [
+      "When and where you watched it",
+      "What it is about",
+      "Why you watched it",
+      "And explain how you feel about it"
+    ]
+  },
+  {
+    "topic": "Describe a boring place",
+    "prompts": [
+      "Where it is",
+      "Who you went there with",
+      "What you did there",
+      "And explain why you think it is a boring place"
+    ]
+  },
+  {
+    "topic": "Describe a plan that you had to change recently",
+    "prompts": [
+      "When this happened",
+      "What made you change the plan",
+      "What the new plan was",
+      "And how you felt about the change"
+    ]
+  },
+  {
+    "topic": "Describe a new law you would like to introduce in your country",
+    "prompts": [
+      "What law it is",
+      "What changes this law brings",
+      "Whether this new law will be popular",
+      "How you came up with the new law",
+      "And explain how you feel about this new law"
+    ]
+  },
+  {
+    "topic": "Describe a long-term goal/ambition you would like to achieve",
+    "prompts": [
+      "How long you have had this goal/ambition",
+      "What it is",
+      "How you will achieve it",
+      "And explain why you set it"
+    ]
+  },
+  {
+    "topic": "Describe an important decision that you made",
+    "prompts": [
+      "What the decision was",
+      "How you made your decision",
+      "What the results of the decision were",
+      "And explain why it was important"
+    ]
+  },
+  {
+    "topic": "Describe a time when you got up early",
+    "prompts": [
+      "When it was",
+      "What you did",
+      "Why you got up early",
+      "And how you felt about it"
+    ]
+  },
+  {
+    "topic": "Describe a home that you like to visit but do not want to live in",
+    "prompts": [
+      "Where it is",
+      "What it is like",
+      "Why you like to visit it",
+      "And explain why you would not like to live there"
+    ]
+  }
+]
