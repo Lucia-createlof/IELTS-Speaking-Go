@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+imageio-ffmpeg
+chromadb
+numpy
+dashscope
+openai
+langchain-community
+langchain-chroma
+langchain-core
+json-repair
